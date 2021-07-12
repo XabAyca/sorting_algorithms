@@ -1,4 +1,4 @@
-[!imae](image.jpeg)
+![image](image.jpeg)
 # Project : Sorting Algorithms
 1. Introduction
 Des fois, un développeur est amené à manipuler des tableaux avec énormément de data à l'intérieur. Pour gagner du temps de traitement par la suite, il est beaucoup plus confortable de travailler avec des tableaux triés par ordre croissant.   
